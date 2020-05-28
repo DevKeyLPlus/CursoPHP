@@ -45,7 +45,7 @@
 	//Null
 	$nulo = NULL;
 	$vazio = "";
-
+	
 	var_dump($nulo);
 	echo "<br>";
 	var_dump($vazio);

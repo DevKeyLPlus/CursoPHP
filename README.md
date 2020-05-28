@@ -11,9 +11,9 @@ Primeira aula pratica, aprendendo a declara variaveis, mostrar na tela com o com
 Aula sobre possibilidades de declaração de variaveis.
 Não é possivel declarar variaveis com as seguintes opções:
 
-*Com caracter especial alem do underscore
-*Iniciando com o numero (ex: $1nome;)
-*Com palavras reservadas do sistema (ex: $this;)
+* Com caracter especial alem do underscore
+* Iniciando com o numero (ex: $1nome;)
+* Com palavras reservadas do sistema (ex: $this;)
 
 ### Exemplo02b.php
 No curso não ha esse arquivo, criei na ideia de ficar mais legivel e facio de entender.
